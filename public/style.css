@@ -1,0 +1,64 @@
+a {
+	color: #FC9D9A;
+}
+
+a:hover {
+	color: #fffeee;
+}
+
+.home-left-panel {
+	padding-top: 40px;
+	text-align: center;
+}
+
+.pallavi-profile {
+	max-width: 300px;
+}
+
+.about {
+	width: 300px;
+	margin: 0 auto;
+	color: #262626;
+	font-size: 13px;
+}
+
+.about a {
+	color: #A70000;
+}
+
+.heroine p {
+	font-size: 36px;
+	font-weight: 100;
+}
+
+.home-social-stickers {
+	margin: 20px 0;
+}
+
+.home-right-panel {
+	height: inherit;
+	background: #262626;
+	color: #FFFFEE;
+}
+
+.home-list li h4, .home-right-panel h1, .home-footer {
+	color: #fff;
+}
+
+.home-list li {
+	padding: 20px;
+	border-bottom: 1px dotted #666;
+}
+
+.home-list li {
+
+}
+
+.home-list li:last-child {
+	border-bottom: none;
+}
+
+.home-footer {
+	font-size: 12px;
+	color: #666;
+}
